@@ -52,9 +52,4 @@ Here are some ideas to get you started:
 
 [![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeasin-Hossen-Arman)](https://github.com/Yeasin-Hossen-Arman/github-readme-stats&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yeasin-Hossen-Arman)]
-[![Arman's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yeasin-Hossen-Arman)](https://github.com/Yeasin-Hossen-Arman/github-readme-stats)
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
