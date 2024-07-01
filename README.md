@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeasin-Hossen-Arman)](https://github.com/Yeasin-Hossen-Arman/github-readme-stats&theme=radical)
+[![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeasin-Hossen-Arman)](https://github.com/Yeasin-Hossen-Arman/github-readme-stats&theme=dark)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
