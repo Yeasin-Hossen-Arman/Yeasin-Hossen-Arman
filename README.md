@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### About Me:    
 I'm a passionate ......
 <!---->
 
+<h1>----------------------------------------------------------------------------------------------------------</h1>
 
 ## Languages and Tools 
 <div>
