@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### About Me:    
-I'm a passionate ......
+I'm passionate with Python, Django, Flask, Machine learning, Deep learning, Comuter vision and image processing.Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 <!---->
 
 <h1>---------------------------------------------------------------------------</h1>
