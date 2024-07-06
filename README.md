@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **Yeasin-Hossen-Arman/Yeasin-Hossen-Arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm passionate with Python, Django, Flask, Machine learning, Deep learning, Comuter vision and image processing.Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 <!---->
 
-<h1>---------------------------------------------------------------------------</h1>
+<h1>-----------------------------------------------------------------------</h1>
 
 ## Languages and Tools 
 <div>
